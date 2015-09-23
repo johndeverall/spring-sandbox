@@ -5,8 +5,8 @@
 	<name>Service</name>
 
 	<parent>
-		<groupId>nz.co.deverall.examples.maven</groupId>
-		<artifactId>multimodule-parent</artifactId>
+		<groupId>nz.co.deverall.examples.spring</groupId>
+		<artifactId>client-service-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../</relativePath>
 	</parent>

@@ -5,15 +5,15 @@
 	<name>Client</name>
 
 	<parent>
-		<groupId>nz.co.deverall.examples.maven</groupId>
-		<artifactId>multimodule-parent</artifactId>
+		<groupId>nz.co.deverall.examples.spring</groupId>
+		<artifactId>client-service-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../</relativePath>
 	</parent>
 
 	<dependencies>
 		<dependency>
-			<groupId>nz.co.deverall.examples.maven</groupId>
+			<groupId>nz.co.deverall.examples.spring</groupId>
 			<artifactId>service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
