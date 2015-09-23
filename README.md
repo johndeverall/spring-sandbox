@@ -10,7 +10,7 @@ spring-sandbox is where I create such examples for myself when I cannot find the
 
 Currently there is 1 sub project included in this project.
 
-* **spring-boot-properties** which demonstrates usage of Spring boot's EnableConfigurationProperties annotation. [docs](http://docs.spring.io/spring-boot/docs/1.1.x/reference/htmlsingle/#boot-features-testing-spring-boot-applications).
+* **spring-boot-properties** which demonstrates usage of Spring boot's EnableConfigurationProperties annotation. [See docs.](http://docs.spring.io/spring-boot/docs/1.1.x/reference/htmlsingle/#boot-features-testing-spring-boot-applications).
 
 ##To run projects
 
